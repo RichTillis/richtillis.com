@@ -2,11 +2,12 @@ baseURL = "https://personal-website-fda17.firebaseapp.com/"
 languageCode = "en-us"
 title = "Rich Tillis"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+# disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = "" 
 
 [params]
-    author = "Calin Tataru"
+    # theme_color = "#006699"
+    author = "Calin Tataru, Alexis Collado, and Rich TIllis"
     description = "Fullstack Software Engineer"
     profilePic = "/images/tillis_headshot.jpg"
     githubUsername = "#"
@@ -16,10 +17,22 @@ googleAnalytics = ""
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["java", "javascript"]
+
+[params.hero]
+    enable = true
+    avatar = "tillis_headshot.jpg"
+    subtitle = "I'm Rich, a software engineer."
+    hero_right = ["Hello World.", "I'm a fullstack software developer.", "Always building. Always learning."]
+    # resume = "ResumeCollado.pdf"  
+
+[params.case_studies]
+    enable = true
+    title = "Recent Projects"
+    subtitle = "Fun Stuff I've Been Building"      
 
 [[menu.main]]
-    url = "/"
+    url = "/" 
     name = "Home"
     weight = 1
 

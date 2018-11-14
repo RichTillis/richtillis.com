@@ -3,28 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/project/project1/</loc>
+    <loc>https://personal-website-fda17.firebaseapp.com/gsd-todo/</loc>
+    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/project/project2/</loc>
+    <loc>https://personal-website-fda17.firebaseapp.com/ft-lowell/</loc>
+    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/project/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/project/project4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/project/project5/</loc>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/bootstrap/</loc>
-    <priority>0</priority>
+    <loc>https://personal-website-fda17.firebaseapp.com/personal-website/</loc>
+    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
   </url>
   
   <url>
@@ -33,57 +23,8 @@
   </url>
   
   <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/css/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/go/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/golang/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/highlight-js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/html/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/hugo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://personal-website-fda17.firebaseapp.com/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://personal-website-fda17.firebaseapp.com/tags/syntax-highlighting/</loc>
+    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
     <priority>0</priority>
   </url>
   
