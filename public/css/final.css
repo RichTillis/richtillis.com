@@ -322,7 +322,6 @@ section {
   font-size: 13px;
   font-weight: 700;
   color: #5A5A5A;
-  margin: 0;
   line-height: 0.3em;
   text-transform: uppercase;
 }
@@ -345,6 +344,7 @@ section {
   -webkit-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
   border-radius: 2px;
+  margin-top: 10px
 }
 
 .main-case-study {
