@@ -51,7 +51,7 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:rich@tillis.io"
+    url = "mailto:rich@richtillis.com"
     name = "envelope-o"
     weight = 1
 
