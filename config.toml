@@ -1,6 +1,6 @@
 baseURL = "https://personal-website-fda17.firebaseapp.com/"
 languageCode = "en-us"
-title = "Rich Tillis"
+title = "Rich Tillis - SW Dev"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = "" 
@@ -29,7 +29,10 @@ googleAnalytics = ""
 [params.case_studies]
     enable = true
     title = "Recent Projects"
-    subtitle = "Fun Stuff I've Been Building"      
+    subtitle = "Fun Stuff I've Been Building"   
+
+[params.favicon]
+    enable=true
 
 [[menu.main]]
     url = "/" 
@@ -70,7 +73,7 @@ googleAnalytics = ""
     name = "linkedin"
     weight = 4
 
-#[[menu.icon]]
-#    url = "https://www.stackoverflow.com/users/4577397/richtillis/"
-#    name = "stack-overflow"
-#    weight = 5
+[[menu.icon]]
+    url = "https://www.stackoverflow.com/users/4577397/richtillis/"
+    name = "stack-overflow"
+    weight = 5
